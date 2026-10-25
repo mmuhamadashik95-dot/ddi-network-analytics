@@ -1,0 +1,153 @@
+medicine_id,generic_name,category,typical_use,risk_note
+M001,warfarin,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M002,heparin,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M003,enoxaparin,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M004,apixaban,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M005,rivaroxaban,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M006,dabigatran,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M007,edoxaban,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M008,fondaparinux,anticoagulant,Prevents blood clots,Bleeding risk; many interactions
+M009,aspirin,antiplatelet,Prevents platelets clumping,Bleeding risk in combinations
+M010,clopidogrel,antiplatelet,Prevents platelets clumping,Bleeding risk in combinations
+M011,ticagrelor,antiplatelet,Prevents platelets clumping,Bleeding risk in combinations
+M012,prasugrel,antiplatelet,Prevents platelets clumping,Bleeding risk in combinations
+M013,dipyridamole,antiplatelet,Prevents platelets clumping,Bleeding risk in combinations
+M014,cilostazol,antiplatelet,Prevents platelets clumping,Bleeding risk in combinations
+M015,ibuprofen,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M016,naproxen,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M017,diclofenac,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M018,celecoxib,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M019,indomethacin,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M020,ketorolac,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M021,meloxicam,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M022,mefenamic acid,nsaid,Pain and inflammation relief,"Bleeding, kidney and stomach risk"
+M023,amoxicillin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M024,ampicillin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M025,ceftriaxone,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M026,cefalexin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M027,doxycycline,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M028,azithromycin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M029,clarithromycin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M030,erythromycin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M031,ciprofloxacin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M032,levofloxacin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M033,metronidazole,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M034,trimethoprim-sulfamethoxazole,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M035,nitrofurantoin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M036,vancomycin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M037,gentamicin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M038,clindamycin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M039,moxifloxacin,antibiotic,Treats bacterial infections,Enzyme inhibition can raise other drug levels
+M040,fluconazole,antifungal,Treats fungal infections,Strong enzyme inhibition
+M041,itraconazole,antifungal,Treats fungal infections,Strong enzyme inhibition
+M042,ketoconazole,antifungal,Treats fungal infections,Strong enzyme inhibition
+M043,voriconazole,antifungal,Treats fungal infections,Strong enzyme inhibition
+M044,terbinafine,antifungal,Treats fungal infections,Strong enzyme inhibition
+M045,amphotericin B,antifungal,Treats fungal infections,Strong enzyme inhibition
+M046,lisinopril,ace_inhibitor,Lowers blood pressure,Potassium and kidney monitoring
+M047,enalapril,ace_inhibitor,Lowers blood pressure,Potassium and kidney monitoring
+M048,ramipril,ace_inhibitor,Lowers blood pressure,Potassium and kidney monitoring
+M049,captopril,ace_inhibitor,Lowers blood pressure,Potassium and kidney monitoring
+M050,losartan,arb,Lowers blood pressure,Potassium and kidney monitoring
+M051,valsartan,arb,Lowers blood pressure,Potassium and kidney monitoring
+M052,telmisartan,arb,Lowers blood pressure,Potassium and kidney monitoring
+M053,candesartan,arb,Lowers blood pressure,Potassium and kidney monitoring
+M054,metoprolol,beta_blocker,Lowers blood pressure and heart rate,Heart-rate and masking effects
+M055,atenolol,beta_blocker,Lowers blood pressure and heart rate,Heart-rate and masking effects
+M056,propranolol,beta_blocker,Lowers blood pressure and heart rate,Heart-rate and masking effects
+M057,carvedilol,beta_blocker,Lowers blood pressure and heart rate,Heart-rate and masking effects
+M058,bisoprolol,beta_blocker,Lowers blood pressure and heart rate,Heart-rate and masking effects
+M059,labetalol,beta_blocker,Lowers blood pressure and heart rate,Heart-rate and masking effects
+M060,amlodipine,calcium_channel_blocker,Lowers blood pressure,Enzyme and heart-rate interactions
+M061,nifedipine,calcium_channel_blocker,Lowers blood pressure,Enzyme and heart-rate interactions
+M062,diltiazem,calcium_channel_blocker,Lowers blood pressure,Enzyme and heart-rate interactions
+M063,verapamil,calcium_channel_blocker,Lowers blood pressure,Enzyme and heart-rate interactions
+M064,felodipine,calcium_channel_blocker,Lowers blood pressure,Enzyme and heart-rate interactions
+M065,furosemide,diuretic,Removes excess fluid; lowers blood pressure,Electrolyte shifts
+M066,hydrochlorothiazide,diuretic,Removes excess fluid; lowers blood pressure,Electrolyte shifts
+M067,bumetanide,diuretic,Removes excess fluid; lowers blood pressure,Electrolyte shifts
+M068,chlorthalidone,diuretic,Removes excess fluid; lowers blood pressure,Electrolyte shifts
+M069,indapamide,diuretic,Removes excess fluid; lowers blood pressure,Electrolyte shifts
+M070,spironolactone,potassium_sparing_diuretic,Removes fluid while sparing potassium,Hyperkalemia risk
+M071,amiloride,potassium_sparing_diuretic,Removes fluid while sparing potassium,Hyperkalemia risk
+M072,atorvastatin,statin,Lowers cholesterol,Muscle toxicity when levels rise
+M073,simvastatin,statin,Lowers cholesterol,Muscle toxicity when levels rise
+M074,rosuvastatin,statin,Lowers cholesterol,Muscle toxicity when levels rise
+M075,pravastatin,statin,Lowers cholesterol,Muscle toxicity when levels rise
+M076,lovastatin,statin,Lowers cholesterol,Muscle toxicity when levels rise
+M077,metformin,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M078,glipizide,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M079,gliclazide,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M080,glimepiride,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M081,sitagliptin,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M082,empagliflozin,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M083,dapagliflozin,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M084,insulin glargine,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M085,pioglitazone,antidiabetic,Lowers blood sugar,Hypoglycemia risk in combinations
+M086,sertraline,ssri,Treats depression and anxiety,Bleeding and serotonin-syndrome risk
+M087,fluoxetine,ssri,Treats depression and anxiety,Bleeding and serotonin-syndrome risk
+M088,paroxetine,ssri,Treats depression and anxiety,Bleeding and serotonin-syndrome risk
+M089,escitalopram,ssri,Treats depression and anxiety,Bleeding and serotonin-syndrome risk
+M090,citalopram,ssri,Treats depression and anxiety,Bleeding and serotonin-syndrome risk
+M091,fluvoxamine,ssri,Treats depression and anxiety,Bleeding and serotonin-syndrome risk
+M092,venlafaxine,snri,Treats depression and anxiety,Serotonin-syndrome and blood-pressure risk
+M093,duloxetine,snri,Treats depression and anxiety,Serotonin-syndrome and blood-pressure risk
+M094,desvenlafaxine,snri,Treats depression and anxiety,Serotonin-syndrome and blood-pressure risk
+M095,amitriptyline,tca,Treats depression and nerve pain,Heart-rhythm and sedation risk
+M096,nortriptyline,tca,Treats depression and nerve pain,Heart-rhythm and sedation risk
+M097,imipramine,tca,Treats depression and nerve pain,Heart-rhythm and sedation risk
+M098,carbamazepine,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M099,valproic acid,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M100,lamotrigine,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M101,levetiracetam,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M102,phenytoin,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M103,gabapentin,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M104,pregabalin,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M105,topiramate,antiepileptic,Prevents seizures,Enzyme induction / inhibition
+M106,haloperidol,antipsychotic,Treats psychosis and mood disorders,QT prolongation and sedation
+M107,risperidone,antipsychotic,Treats psychosis and mood disorders,QT prolongation and sedation
+M108,olanzapine,antipsychotic,Treats psychosis and mood disorders,QT prolongation and sedation
+M109,quetiapine,antipsychotic,Treats psychosis and mood disorders,QT prolongation and sedation
+M110,aripiprazole,antipsychotic,Treats psychosis and mood disorders,QT prolongation and sedation
+M111,clozapine,antipsychotic,Treats psychosis and mood disorders,QT prolongation and sedation
+M112,morphine,opioid,Strong pain relief,Respiratory depression in combinations
+M113,tramadol,opioid,Strong pain relief,Respiratory depression in combinations
+M114,codeine,opioid,Strong pain relief,Respiratory depression in combinations
+M115,oxycodone,opioid,Strong pain relief,Respiratory depression in combinations
+M116,fentanyl,opioid,Strong pain relief,Respiratory depression in combinations
+M117,methadone,opioid,Strong pain relief,Respiratory depression in combinations
+M118,diazepam,benzodiazepine,Sedation and anxiety relief,Sedation and respiratory depression
+M119,lorazepam,benzodiazepine,Sedation and anxiety relief,Sedation and respiratory depression
+M120,alprazolam,benzodiazepine,Sedation and anxiety relief,Sedation and respiratory depression
+M121,clonazepam,benzodiazepine,Sedation and anxiety relief,Sedation and respiratory depression
+M122,temazepam,benzodiazepine,Sedation and anxiety relief,Sedation and respiratory depression
+M123,omeprazole,ppi,Reduces stomach acid,Absorption and activation interactions
+M124,pantoprazole,ppi,Reduces stomach acid,Absorption and activation interactions
+M125,esomeprazole,ppi,Reduces stomach acid,Absorption and activation interactions
+M126,lansoprazole,ppi,Reduces stomach acid,Absorption and activation interactions
+M127,cetirizine,antihistamine,Relieves allergy symptoms,Sedation (older agents)
+M128,loratadine,antihistamine,Relieves allergy symptoms,Sedation (older agents)
+M129,fexofenadine,antihistamine,Relieves allergy symptoms,Sedation (older agents)
+M130,diphenhydramine,antihistamine,Relieves allergy symptoms,Sedation (older agents)
+M131,chlorpheniramine,antihistamine,Relieves allergy symptoms,Sedation (older agents)
+M132,sumatriptan,triptan,Treats migraine attacks,Serotonin-syndrome risk in combinations
+M133,rizatriptan,triptan,Treats migraine attacks,Serotonin-syndrome risk in combinations
+M134,paracetamol,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M135,methotrexate,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M136,lithium,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M137,digoxin,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M138,theophylline,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M139,allopurinol,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M140,colchicine,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M141,sildenafil,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M142,tamsulosin,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M143,ondansetron,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M144,domperidone,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M145,levothyroxine,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M146,alendronate,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M147,baclofen,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M148,cyclobenzaprine,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M149,amiodarone,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M150,nitroglycerin,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M151,bupropion,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
+M152,mirtazapine,other,Specialist / narrow-use medicine,Narrow therapeutic window or specialist monitoring
