@@ -1,0 +1,21 @@
+medicine,category,degree,degree_centrality,betweenness_centrality,eigenvector_centrality,severity_weighted_degree,risk_score
+ketorolac,nsaid,29,0.1921,0.0953,0.1711,63,0.8958
+ibuprofen,nsaid,26,0.1722,0.1022,0.1575,58,0.832
+naproxen,nsaid,26,0.1722,0.0677,0.1554,60,0.8132
+warfarin,anticoagulant,16,0.106,0.1989,0.1511,42,0.6989
+clarithromycin,antibiotic,17,0.1126,0.1403,0.2803,46,0.682
+indomethacin,nsaid,22,0.1457,0.0414,0.1239,47,0.6422
+diclofenac,nsaid,21,0.1391,0.0352,0.157,46,0.6177
+citalopram,ssri,18,0.1192,0.0429,0.2896,45,0.5864
+meloxicam,nsaid,20,0.1325,0.0339,0.1552,43,0.5823
+mefenamic acid,nsaid,20,0.1325,0.0187,0.1156,44,0.5749
+escitalopram,ssri,17,0.1126,0.0489,0.2727,43,0.5663
+celecoxib,nsaid,19,0.1258,0.0154,0.0907,40,0.5294
+methadone,opioid,14,0.0927,0.0294,0.2408,42,0.5077
+moxifloxacin,antibiotic,15,0.0993,0.0191,0.2771,39,0.4838
+carbamazepine,antiepileptic,11,0.0728,0.1476,0.0215,23,0.4446
+erythromycin,antibiotic,13,0.0861,0.0172,0.2549,36,0.4375
+apixaban,anticoagulant,13,0.0861,0.0146,0.1326,36,0.4349
+fluoxetine,ssri,14,0.0927,0.0557,0.0868,29,0.4309
+haloperidol,antipsychotic,11,0.0728,0.06,0.2286,31,0.4201
+alprazolam,benzodiazepine,13,0.0861,0.0283,0.033,31,0.4089
